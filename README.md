@@ -2,8 +2,10 @@ Based on https://github.com/jekyll/minima
 
 # jekyll-flat
 
-![flat theme preview](/screenshot_home.png)
-![flat theme preview](/screenshot_post.png)
+<p align="center">
+  <img src="./screenshot_home.png">
+  <img src="./screenshot_post.png">
+</p>
 
 ## Installation
 
