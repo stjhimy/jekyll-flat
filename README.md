@@ -2,7 +2,8 @@ Based on https://github.com/jekyll/minima
 
 # jekyll-flat
 
-![minima theme preview](/screenshot.png)
+![flat theme preview](/screenshot_home.png)
+![flat theme preview](/screenshot_post.png)
 
 ## Installation
 
