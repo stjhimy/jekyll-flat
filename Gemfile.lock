@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    minima (1.2.0)
+    jekyll-flat (1.0.0)
 
 GEM
   remote: https://rubygems.org/
@@ -45,7 +45,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.12)
   jekyll (~> 3.2)
-  minima!
+  jekyll-flat!
   rake (~> 10.0)
 
 BUNDLED WITH
