@@ -1,5 +1,7 @@
 Based on https://github.com/jekyll/minima
 
+**Theme not supported on github-pages**
+
 # jekyll-flat
 
 <p align="center">
