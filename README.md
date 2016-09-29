@@ -2,7 +2,10 @@ Based on https://github.com/jekyll/minima
 
 **Theme not supported on github-pages**
 
+
 # jekyll-flat
+
+Live example [http://stjhimy.com](http://stjhimy.com)
 
 <p align="center">
   <img src="./screenshot_home.png">
