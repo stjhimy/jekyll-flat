@@ -40,6 +40,7 @@ Then add a `css/main.scss` file based on the following template, don't forget to
 ```
 
 You can choose to override the [`_includes/head.html `](_includes/head.html) file to specify a custom style path.
+
 You can also copy [`example/index.html `](example/index.html) to your project in order to have a pixel copy of the page.
 
 ## Enabling comments (via Disqus)
