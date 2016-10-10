@@ -43,6 +43,16 @@ You can choose to override the [`_includes/head.html `](_includes/head.html) fil
 
 You can also copy [`example/index.html `](example/index.html) to your project in order to have a pixel copy of the page.
 
+## Font Awesome Icons
+
+This theme includes all Font Awesome icons as default, making it easier to use any icon:
+
+```html
+<i class="fa fa-twitter"></i>
+<i class="fa fa-instagram"></i>
+<i class="fa fa-github"></i>
+```
+
 ## Enabling comments (via Disqus)
 
 Optionally, if you have a Disqus account, you can tell Jekyll to use it to show a comments section below each post.
